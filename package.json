@@ -1,0 +1,24 @@
+{
+  "name": "test-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/redis": "^2.8.1",
+    "brev": "^1.1.0-alpha",
+    "express": "^4.16.2",
+    "express-stylus": "^0.1.0",
+    "highlight.js": "^9.12.0",
+    "js-yaml": "^3.10.0",
+    "markdown-it": "^8.4.0",
+    "nib": "^1.1.2",
+    "redis": "^2.8.0",
+    "stylus": "^0.54.5"
+  }
+}
